@@ -14,7 +14,7 @@
     "@picovoice/picovoice-node": "^2.1.8",
     "@picovoice/porcupine-node": "^2.1.7",
     "@picovoice/rhino-node": "^2.1.10",
-    "@types/node": "^18.0.5",
+    "@types/node": "^18.0.6",
     "@types/ws": "^8.5.3",
     "homeassistant": "^0.2.0",
     "node-record-lpcm16": "^1.0.1",
